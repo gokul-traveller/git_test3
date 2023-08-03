@@ -6,7 +6,8 @@ git status -to see thw status of git
 git add -u -to add changes otside git
 git rm filename -to remove file
 git mv filename foldername -move file
-
+git log -to see history
+.gitignore ((inside file)*.log) -to ignore log files 
 
 
 
