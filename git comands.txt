@@ -1,3 +1,4 @@
+git init filename -initialize git file
 git commit - for commiting
 git commit -m "..."  -for commiting with msg
 git commit -am "..." -for adding and commiting
@@ -8,7 +9,13 @@ git rm filename -to remove file
 git mv filename foldername -move file
 git log -to see history
 .gitignore ((inside file)*.log) -to ignore log files 
+$ git config --global init.defaultBranch main   (to make default brain from master to main)
+$ git branch -m main  (to change current branch to main)
 
+
+ssh-keygen -t rsa -C "gokul.gopinath@inseinc.com"     (in .ssh folder)(then enter passkey)
+notepad id_rsa.pub (and copy text and paste in github)
+ssh -T git@github.com
 
 
 dirmk - to make folder
