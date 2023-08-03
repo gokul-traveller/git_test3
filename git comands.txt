@@ -1,0 +1,19 @@
+git commit - for commiting
+git commit -m "..."  -for commiting with msg
+git commit -am "..." -for adding and commiting
+git add filename  -for adding changes to git
+git status -to see thw status of git
+git add -u -to add changes otside git
+git rm filename -to remove file
+git mv filename foldername -move file
+
+
+
+
+dirmk - to make folder
+start filename -open folder
+notepad filename - open file to edit
+pwd -current folder
+ls -contents in folder
+
+
